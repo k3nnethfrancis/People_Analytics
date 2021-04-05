@@ -3,7 +3,7 @@ A collection of useful scripts for working with people data.
 
 
 ## SurveyTools
-Contains scripts for analyzing and automating survey procedures. Currently composed of one script, likert-convert.py, which is a function that allows you to mathmatically convert one likert scale to another.
+Contains scripts for analyzing surveys and automating procedures. Currently just one script: likert-convert.py, a function for mathmatically converting one likert scale to another.
 
 
 ## HRIS_ReportingAPIs
